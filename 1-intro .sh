@@ -12,7 +12,7 @@ clear
 echo "Hello"
 
 a=10
-echo -e "Value of a is $a \n"
+echo -ne "Value of a is $a \n"
 
 # use to take input
 read a
