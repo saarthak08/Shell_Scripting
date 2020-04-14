@@ -11,5 +11,13 @@ clear
 # prints the screen
 echo "Hello"
 
+a=10
+echo -e "Value of a is $a \n"
+
+# use to take input
+read a
+
+echo "$a"
+
 # both are valid. but 1st one is recommended for a bash script to correctly parse argument.
 echo Hello

@@ -5,6 +5,7 @@
 # 2) Environment Variable: for the whole environment shell.
 # 3) Shell Variable: A shell variable is a special variable that is set by the shell and is required by the shell in order to function correctly. Some of these variables are environment variables whereas others are local variables.
 
+
 echo $0
 # The filename of the current script.
 
