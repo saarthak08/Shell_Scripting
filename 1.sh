@@ -11,5 +11,5 @@ clear
 # prints the screen
 echo "Hello"
 
-# both are valid
+# both are valid. but 1st one is recommended for a bash script to correctly parse argument.
 echo Hello
